@@ -8,13 +8,13 @@
              alt="Telegram"
  
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madushankabro&label=Profile%20views&color=0e75b6&style=plastic" alt="Madushankabro" /> </p>
              
----             
+           
  
 ---
 ### My Stats 🇱🇰
-
-![Madushankabro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madushankabro)]
+![Madushankabro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madushankabro)
 ---             
              
 <!---
