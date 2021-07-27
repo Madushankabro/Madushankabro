@@ -1,4 +1,4 @@
-# <h>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px"> ,I’m @Madushankabro</h> 🇱🇰
+# <h>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px"> ,I’m Madushankabro</h> 🇱🇰
 
 <img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:50%;">
 
@@ -7,7 +7,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 - <a href="https://telegram.me/epusthakalaya_bots">
-        <img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram"
+        <img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=Telegram"
+             alt="Telegram"
+- <a href="https://telegram.me/MissAlissaNews">
+        <img src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logo=Telegram"
              alt="Telegram"
  
 ---
