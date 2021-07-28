@@ -1,6 +1,6 @@
 # <h>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px"> ,I’m Madushankabro</h> 🇱🇰
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Bots+Developer;%3E+Currently Learning Python Pyrogram & Telethon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Bots+Developer;-%3E+Music+Lover;)](https://git.io/typing-svg)
 
 <img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:50%;">
 
