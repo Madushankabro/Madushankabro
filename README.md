@@ -27,6 +27,9 @@
 ![Madushankabro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madushankabro)
             
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Madushankabro" alt="Madushankabro" /></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madushankabro)](https://github.com/Madushankabro/github-readme-stats)
+
 -------------
 <!---
 Madushankabro/Madushankabro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
