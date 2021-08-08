@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=000000&size=35&width=1050&height=100&lines=%E2%9E%AA+I'm+Bot+Developer;+%E2%9E%AA+I%E2%80%99m+Currently+Learning+Python+Pyrogram+%26+Telethon;+%E2%9E%AA+Don't+Forget+to+Follow+My+Github+Profile;%E2%9E%AA+Good+Bye)](https://git.io/typing-svg)
 
-<img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:50%;">
+<p align="left"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></p>     
 
 - 👀 I’m interested in BOT DEVELOPING;
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
@@ -17,8 +17,7 @@
  - <a href="https://www.youtube.com/channel/UC2COV4jPD1hHbQMJuPnA3HA">
         <img src="https://img.shields.io/badge/youtube-red?&style=for-the-badge&logo=Youtube"
              alt="youtube"            
- 
-<p align="left"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></p>             
+         
              
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madushankabro&label=Profile%20views&color=0e75b6&style=plastic" alt="Madushankabro" /> </p>
