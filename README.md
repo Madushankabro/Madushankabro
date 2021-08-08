@@ -23,7 +23,10 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madushankabro&label=Profile%20views&color=0e75b6&style=plastic" alt="Madushankabro" /> </p>
              
-           
+|<a href="https://t.me/imjanindu/"><img src="https://telegra.ph/file/8ddfdfa686153279877cd.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|       **[Portfolio](https://t.me/kasu_bro)**                                                                                |
+| <a href="https://github.com/Madushankabro"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/kasuntha.madushanka.18/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>|        
  
 -------------
 ### My Stats 🇱🇰
@@ -43,4 +46,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+[ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro/)|
+| <a href="https://github.com/Madushankabro"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/inuka.max.3"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/inukaasith7/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
