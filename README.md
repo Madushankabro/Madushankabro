@@ -46,5 +46,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro/)|
-| <a href="https://github.com/Madushankabro"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/inuka.max.3"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/inukaasith7/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
+
