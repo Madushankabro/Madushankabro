@@ -24,7 +24,7 @@
              
 |<a href="https://t.me/imjanindu/"><img src="https://telegra.ph/file/8ddfdfa686153279877cd.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
-|       **[Portfolio](https://t.me/kasu_bro)**                                                                                |
+|       **[ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro)**                                                                                |
 | <a href="https://github.com/Madushankabro"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/kasuntha.madushanka.18/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>|        
  
 -------------
