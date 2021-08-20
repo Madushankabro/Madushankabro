@@ -16,10 +16,10 @@
           alt="Telegram"
  - <a href="https://www.youtube.com/channel/UC2COV4jPD1hHbQMJuPnA3HA">
         <img src="https://img.shields.io/badge/youtube-red?&style=for-the-badge&logo=Youtube"
-             alt="youtube"            
-         
+             alt="youtube"     
+      
+
              
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madushankabro&label=Profile%20views&color=0e75b6&style=plastic" alt="Madushankabro" /> </p>
              
 |<a href="https://t.me/imjanindu/"><img src="https://telegra.ph/file/c0ea7453c2b1c0267a5e0.jpg" width="150px" height="150px" /></a> |
