@@ -30,7 +30,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madushankabro&label=Profile%20views&color=0e75b6&style=plastic" alt="Madushankabro" /> </p>
 
 # My Trophies 🇱🇰
-<a href="https://github.com/Damantha126"><img src="https://github-profile-trophy.vercel.app/?username=Madushankabro&no-bg=true" alt="Madushankabro" /></a>
+<a href="https://github.com/Madushankabro"><img src="https://github-profile-trophy.vercel.app/?username=Madushankabro&no-bg=true" alt="Madushankabro" /></a>
 
 
 
