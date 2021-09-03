@@ -63,7 +63,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madushankabro&theme=dark" alt="Madushankabro" /></p>
 
   <a href="https://github.com/Madushankabro"><img alt="KasuBro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Madushankabro&bg_color=000000&color=ffffff&line=e5ed35&point=0f18b4&hide_border=false" /></a>
-  <a href="https://github.com/Madushankabro"><img alt="KasuBro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Madushankabro&bg_color=000000&color=ffffff&line=e5ed35&point=0f18b4&hide_border=false" /></a>
+
   
   <!---
 Madushankabro/Madushankabro is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
