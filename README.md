@@ -29,6 +29,10 @@
       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madushankabro&label=Profile%20views&color=0e75b6&style=plastic" alt="Madushankabro" /> </p>
 
+# My GitHub Activity 🇱🇰
+
+![Metrics](https://metrics.lecoq.io/Madushankabro?template=classic&isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.aliases=Python&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=Asia%2FColombo)
+
 # My Trophies 🇱🇰
 <a href="https://github.com/Madushankabro"><img src="https://github-profile-trophy.vercel.app/?username=Madushankabro&ryo-ma&theme=chalk" alt="Madushankabro" /></a>
 
@@ -67,6 +71,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madushankabro&theme=dark" alt="Madushankabro" /></p>
 
   <a href="https://github.com/Madushankabro"><img alt="KasuBro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Madushankabro&bg_color=000000&color=ffffff&line=e5ed35&point=0f18b4&hide_border=false" /></a>
+
+
 
   
   <!---
