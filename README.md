@@ -31,7 +31,7 @@
 
 # My GitHub Activity 🇱🇰
 
-![Metrics](https://metrics.lecoq.io/Madushankabro?template=classic&isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.aliases=Python&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=Asia%2FColombo)
+![Metrics](https://metrics.lecoq.io/Madushankabro?template=classic&isocalendar=1&activity=1&achievements=1&isocalendar.duration=full-year&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FColombo)
 
 # My Trophies 🇱🇰
 <a href="https://github.com/Madushankabro"><img src="https://github-profile-trophy.vercel.app/?username=Madushankabro&ryo-ma&theme=chalk" alt="Madushankabro" /></a>
