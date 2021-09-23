@@ -41,6 +41,7 @@
 
 # Popular Repo States 🇱🇰
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Madushankabro&repo=Calculator&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Madushankabro&repo=Analog-Clock&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Madushankabro&repo=TheElina-Bot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Madushankabro&repo=MissAlissa&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Madushankabro&repo=MissAlissaX-Music&theme=dark)
