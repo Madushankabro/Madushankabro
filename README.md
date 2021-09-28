@@ -36,7 +36,7 @@
 # My Trophies 🇱🇰
 <a href="https://github.com/Madushankabro"><img src="https://github-profile-trophy.vercel.app/?username=Madushankabro&no-bg=true" alt="Madushankabro" /></a>
 
-
+ 
 
 
 # Popular Repo States 🇱🇰
@@ -71,7 +71,8 @@
 </p> 
 
 # My States 🇱🇰
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madushankabro&show_icons=true&locale=en&layout=compact&theme=dark" alt="Madushankabro" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madushankabro&theme=dark)](https://github.com/Madushankabro/github-readme-stats)
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madushankabro&show_icons=true&theme=dark&locale=en" alt="Madushankabro" /></p>
