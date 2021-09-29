@@ -35,8 +35,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madushankabro&label=Profile%20views&color=0e75b6&style=plastic" alt="Madushankabro" /> </p>
 
 # My GitHub Activity 🇱🇰
+        
+        
+![Metrics](https://metrics.lecoq.io/Madushankabro?template=classic&activity=1&isocalendar=1&achievements=1&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FColombo)
 
-![Metrics](https://metrics.lecoq.io/Madushankabro?template=classic&isocalendar=1&activity=1&achievements=1&isocalendar.duration=full-year&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FColombo)
+
 
 # My Trophies 🇱🇰
 <a href="https://github.com/Madushankabro"><img src="https://github-profile-trophy.vercel.app/?username=Madushankabro&no-bg=true" alt="Madushankabro" /></a>
