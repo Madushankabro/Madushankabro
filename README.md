@@ -10,7 +10,8 @@
 |       [ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro)                                                                                |
 | <a href="https://github.com/Madushankabro"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/kasuntha.madushanka.18/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>| 
 
-
+## 🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 
 - 🚶‍ &nbsp; I'm from :<b> Sri Lanka 🇱🇰 </b><br>
