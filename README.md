@@ -13,9 +13,13 @@
 
 
 
+- 🚶‍ &nbsp; I'm from :<b> Sri Lanka 🇱🇰 </b><br>
 - 👀 I’m interested in BOT DEVELOPING;
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
-- 💞 I’m looking to collaborate on ...
+- 💞 I’m looking to collaborate on : ![github](https://img.shields.io/badge/On-Github-black) <br>
+- 💁‍♂️ Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-https://kasubro.netlify.app-blue) <br>
+- 📚 I went to :<b> Sanghabodhi national college- Nittambuwa <b> <br>
+- 🎩 I'm ![age](https://img.shields.io/badge/Age-19-blue) years old.
 - 📫 How to reach me ... 
 - <a href="https://telegram.me/epusthakalaya_bots">
         <img src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=Telegram"
