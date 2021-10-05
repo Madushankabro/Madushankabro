@@ -28,7 +28,7 @@
 - <a href="https://telegram.me/MissAlissaNews">
         <img src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logo=Telegram"
           alt="Telegram"
- - <a href="https://www.youtube.com/channel/UC2COV4jPD1hHbQMJuPnA3HA">
+ - <a href="https://www.youtube.com/channel/UCQh21mNcPAmXiW6B8AsGVew">
         <img src="https://img.shields.io/badge/youtube-red?&style=for-the-badge&logo=Youtube"
              alt="youtube" 
       
