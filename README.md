@@ -1,4 +1,4 @@
-********[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Madushankabro)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Madushankabro)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=000000&size=35&width=1050&height=100&lines=%E2%9E%AA+I'm+Bot+Developer;+%E2%9E%AA+I%E2%80%99m+Currently+Learning+Python+Pyrogram+%26+Telethon;+%E2%9E%AA+Don't+Forget+to+Follow+My+Github+Profile;%E2%9E%AA+Good+Bye)](https://git.io/typing-svg)
 
 <p align="left"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></p>  
