@@ -16,7 +16,7 @@
 
 - 🚶‍ &nbsp; I'm from :<b> Sri Lanka 🇱🇰 </b><br>
 - 👀 I’m interested in Bot Developing & Web Hosting;
-- 🌱 I’m currently learning Python Pyrogram & Telethon; 
+- 🌱 I’m currently following HND in Software Enginnering & Computing at ESoft Metro Campus - Gampaha; 
 - 💞 I’m looking to collaborate on : ![github](https://img.shields.io/badge/On-Github-black) <br>
 - 💁‍♂️ Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-https://kasubro.netlify.app-blue) <br>
 - 📚 I went to :<b> Sanghabodhi national college- Nittambuwa <b> <br>
