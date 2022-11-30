@@ -20,7 +20,7 @@
 - 💞 I’m looking to collaborate on : ![github](https://img.shields.io/badge/On-Github-black) <br>
 - 💁‍♂️ Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-https://kasunthamadushanka.netlify.app-blue) <br>
 - 📚 I went to :<b> Sanghabodhi national college- Nittambuwa <b> <br>
-- 🎩 I'm ![age](https://img.shields.io/badge/Age-19-blue) years old.
+- 🎩 I'm ![age](https://img.shields.io/badge/Age--b20lue) years old.
 - 📫 How to reach me ... 
 - <a href="https://telegram.me/epusthakalaya_bots">
         <img src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=Telegram"
